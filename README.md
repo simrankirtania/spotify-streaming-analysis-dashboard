@@ -174,6 +174,3 @@ Potential enhancements include:
 
 Aspiring Data Analyst passionate about transforming raw data into actionable business insights using SQL, Python, Excel, and Power BI.
 
-LinkedIn: (Add your profile)
-
-Portfolio: (Add your portfolio)
