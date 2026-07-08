@@ -28,6 +28,7 @@ The objective of this project is to answer questions such as:
 ## Dashboard Pages
 
 ### 📈 Overview
+<img width="1128" height="745" alt="image" src="https://github.com/user-attachments/assets/94518b42-a48e-4105-8228-05e2d5b3c9d6" />
 
 Provides a high-level summary of listening activity.
 
@@ -48,6 +49,7 @@ Features include:
 ---
 
 ### 🎧 Listening Patterns
+<img width="558" height="373" alt="image" src="https://github.com/user-attachments/assets/29e11f71-6117-4e25-8684-2d00cd879c95" />
 
 Explores user listening behavior through interactive visualizations.
 
@@ -63,6 +65,7 @@ Features include:
 ---
 
 ### 📋 Details
+<img width="557" height="370" alt="image" src="https://github.com/user-attachments/assets/8905d8db-783b-4b8e-afb2-806162d9b13f" />
 
 Provides a detailed tabular view of the dataset.
 
@@ -74,26 +77,6 @@ Features include:
 - Listening Time
 - Interactive Drill-Down
 - Exportable Data View
-
----
-
-# Dashboard Preview
-
-## Overview
-
-![Overview](Images/overview-dashboard.png)
-
----
-
-## Listening Patterns
-
-![Listening Patterns](Images/listening-patterns.png)
-
----
-
-## Details
-
-![Details](Images/details-dashboard.png)
 
 ---
 
