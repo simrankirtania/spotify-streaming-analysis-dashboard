@@ -133,25 +133,41 @@ The report includes several advanced DAX techniques including:
 
 ## Key Insights
 
-Some insights generated from the dashboard include:
+The dashboard highlights several notable listening patterns:
 
-- Listening activity peaks during evening hours.
-- Weekday listening contributes the majority of total listening activity.
-- Listening trends reached their highest point during the peak listening year.
-- A small number of artists account for a significant share of total listening.
-- Most frequently played tracks have relatively short average listening durations.
+- Listening activity reached its highest level around **2021**, followed by a gradual decline in subsequent years.
+- **Weekday listening consistently accounts for a larger share of total listening activity** than weekend listening across albums, artists, and tracks.
+- **The Beatles** emerged as the most frequently played artist, while albums such as **Past Masters**, **Abbey Road**, and **The Wall** rank among the most listened-to albums.
+- Listening activity is concentrated during the **evening hours**, indicating that music consumption is highest later in the day.
+- The listening heatmap shows that **listening behavior remains fairly consistent across weekdays**, with stronger activity during evening and late-night hours.
+- The scatter plot indicates that **most tracks have relatively short average listening durations but are replayed frequently**, while only a small number of tracks combine both high listening time and high play frequency.
+- Year-over-year KPI cards enable quick identification of increases or declines in album, artist, and track engagement.
+
 
 ---
 
-## Repository Structure
+# Recommendations
 
-```text
-Dashboard/
-Dataset/
-Documentation/
-Images/
-README.md
-```
+Based on the observed listening patterns:
+
+- Prioritize recommendations featuring artists and albums with consistently high replay frequency, such as The Beatles.
+- Schedule music recommendations and notifications during peak evening listening hours to maximize engagement.
+- Highlight highly replayed tracks in personalized playlists, as they represent strong user preferences.
+- Investigate tracks with long listening durations but low replay frequency, as these may represent niche interests worth surfacing to similar listeners.
+- Continue monitoring year-over-year listening trends to identify changes in user engagement over time.
+
+---
+
+# Repository Contents
+
+| File | Description |
+|------|-------------|
+| **Spotify Streaming Analysis Dashboard.pbix** | Power BI dashboard |
+| **Spotify Streaming Analysis Dashboard.pdf** | Exported dashboard report |
+| **spotify_history.csv** | Dataset used for analysis |
+| **Business Requirements.pdf** | Project objectives and business requirements |
+| **README.md** | Project documentation |
+| **LICENSE** | MIT License |
 
 ---
 
