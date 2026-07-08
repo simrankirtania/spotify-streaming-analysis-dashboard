@@ -49,6 +49,7 @@ Features include:
 ---
 
 ### 🎧 Listening Patterns
+
 <img width="558" height="373" alt="image" src="https://github.com/user-attachments/assets/29e11f71-6117-4e25-8684-2d00cd879c95" />
 
 Explores user listening behavior through interactive visualizations.
@@ -65,6 +66,7 @@ Features include:
 ---
 
 ### 📋 Details
+
 <img width="557" height="370" alt="image" src="https://github.com/user-attachments/assets/8905d8db-783b-4b8e-afb2-806162d9b13f" />
 
 Provides a detailed tabular view of the dataset.
